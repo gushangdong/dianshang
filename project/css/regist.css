@@ -1,0 +1,17 @@
+.margin{width: 1256px;margin: 0 auto;}
+#header{height: 125px;width: 1256px;border-bottom: 1px solid #e1e1e1;}
+#header img{float: left;margin-top: 30px;}
+#header .right{float: right;display: flex;font: 18px/60px "";color:#666;}
+.right b{color:#0066cc;padding-left:14px;padding-right:25px;}
+/* .center{background: url(https://www.51puer.com/images/gallery/shop/201803/source_img/1522049504519569160.png) no-repeat;} */
+.center h3{text-align: center;font:700 30px/90px "";color: #333;}
+.center form{position: absolute;left: 560px;float: left;}
+form input{display:block;width: 410px;height:62px;margin-top: 10px;background: #ccc;}
+
+.anniu #sub{width: 75px;height: 35px;border-radius: 10px;background: #fff;color: #333;margin-left:300px;margin-top:-48px;}
+.anniu #res{width: 75px;height: 35px;border-radius: 10px;background: #fff;color: #333;margin-left: 20px;}
+fieldset{margin-bottom: 10px;}
+.footer{background:#fafafa;margin-top:400px;}
+.footer .te{height: 30px;}
+
+
